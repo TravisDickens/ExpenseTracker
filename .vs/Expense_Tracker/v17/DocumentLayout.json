@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B2715CE-3B5A-401E-B56B-D14325C876BF}|Expense_Tracker.csproj|c:\\users\\travi\\source\\repos\\expense_tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,72 +70,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T17:12:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:05:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwGMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-11T13:44:59.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:39:50.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAeAAAA",
+              "DocumentIndex": 2,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Category\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Category\\AddOrEdit.cshtml",
+              "RelativeToolTip": "Views\\Category\\AddOrEdit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-11T13:35:57.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Controllers\\CategoryController.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAABHAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:35:52.503Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-11T13:31:48.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\travi\\source\\repos\\Expense_Tracker\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -135,8 +168,7 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-11T13:30:37.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:30:37.584Z"
             }
           ]
         },

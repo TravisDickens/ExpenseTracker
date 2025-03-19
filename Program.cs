@@ -16,7 +16,11 @@ namespace Expense_Tracker
 
             options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection"))
 
-            ); 
+
+            );
+
+            //Register Syncfusion license
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2XVhhQlJHfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hTH5Qd0ZiW39dc3NTRmVZ");
 
             var app = builder.Build();
 
