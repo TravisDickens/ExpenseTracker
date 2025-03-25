@@ -28,10 +28,17 @@ namespace Expense_Tracker.Controllers
 
 
         // GET: Transacation/AddOrEdit
-        public IActionResult AddOrEdit()
+        public IActionResult AddOrEdit(int id = 0)
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId");
-            return View();
+           PopulateCategories();
+            if (id == 0)
+            {
+                return View(new Transacation());
+            }
+            else
+            {
+                return View(_context.Transacations.Find(id));
+            }
         }
 
         // POST: Transacation/AddOrEdit
@@ -43,11 +50,14 @@ namespace Expense_Tracker.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(transacation);
+                if(transacation.TransactionId == 0)
+                    _context.Add(transacation);
+                else
+                 _context.Update(transacation);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "CategoryId", "CategoryId", transacation.CategoryId);
+            PopulateCategories();
             return View(transacation);
         }
 
@@ -70,6 +80,14 @@ namespace Expense_Tracker.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [NonAction]
+        public void PopulateCategories()
+        {
+            var CategoryCollection = _context.Categories.ToList();
+            Category DefaultCategory = new Category() { CategoryId = 0, Title = "Choose a category"};
+            CategoryCollection.Insert(0, DefaultCategory);
+            ViewBag.Categories = CategoryCollection;
+        }
        
     }
 }
